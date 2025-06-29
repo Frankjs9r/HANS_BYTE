@@ -22,7 +22,7 @@ module.exports = {
   SESSION_ID: process.env.SESSION_ID || "HANS-BYTE~57lXGaQZ#vY4evSScki5z6lodCAuanFvHdjnSfvG4qwwpBzXlyVg", // Add your session ID here
   SUDO: process.env.SUDO || "237696900612", // Add your admin/sudo number here
   OWNER_NUM: process.env.OWNER_NUM || "27783583068", // Add the owner's number here
-  OWNER_NAME: process.env.OWNER_NAME || "Da Frank", // Add the owner's name here
+  OWNER_NAME: process.env.OWNER_NAME || "HANS-BYTE", // Add the owner's name here
   OWNER_EMAIL: process.env.OWNER_EMAIL || "your@email.com", // Add your email address here
   OWNER_LOCATION: process.env.OWNER_LOCATION || "Africa/Douala", // Add your location here
   OWNER_GITHUB: process.env.OWNER_GITHUB || "https://github.com/HansTech1", // Add your GitHub profile URL here
